@@ -15,11 +15,11 @@ Identify top customers by region, analyze purchase frequency, segment customers 
 
 **✅ Step 2 – Success Criteria (exactly 5 goals – linked to window functions)**
 
-1- Identify the top 5 products per region using RANK().
-2- Compute running monthly sales totals per region using SUM() OVER().
-3- Measure month-over-month sales growth using LAG().
-4- Segment customers into four purchasing groups using NTILE(4).
-5- Calculate three-month moving average of sales using AVG() OVER().
+1- Find the 5 best-selling products in each region(using RANK()).
+2- Calculate the cumulative monthly sales (using SUM() OVER()). 
+3- Measure the month-over-month sales change (using LAG()).
+4- Classify customers into 4 groups based on their spending (using NTILE(4)).
+5- Calculate the average sales for the last three months (using AVG() OVER()).
 
 **3. Database Schema Design**
    
