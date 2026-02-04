@@ -1,5 +1,10 @@
 # plsql_window_functions_MIMBA-ESSONE_27086-Original-
 
+Instructor: Eric MANIRAGUHA
+Assignment Date: 06/02/2026
+Group: D
+Student: Paule Celeste MIMBA ESSONE (ID: 27086)
+
 **1. Business Problem Definition**
 
 **Business Context**
