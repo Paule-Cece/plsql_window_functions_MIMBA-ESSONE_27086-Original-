@@ -280,7 +280,7 @@ Shema is Platinum tier (top 25%), Mimba & Awassi are Gold tier, Teta is Silver t
  .Personalize recommendations based on purchase history
  .Implement loyalty tiers with exclusive benefits
 
-  **References**
+  **📚 References**
   
   *Institutional and official sources**
     PostgreSQL – Window Functions : postgresql.org/docs/current/sql-select.html – Section 7.4 sur les fonctions de fenêtre et les cadres de fenêtre.
